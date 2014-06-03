@@ -4,7 +4,7 @@ Minimalistic Swift HTTP request agent for iOS and OS X.
 
 ## Introduction
 
-This is a tiny framework that gives you nice API for crafting an HTTP request.
+This is a tiny framework that gives you nice a API for crafting an HTTP request.
 
 ## Usage
 
